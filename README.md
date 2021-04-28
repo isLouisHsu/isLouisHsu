@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![louishsu's github stats](https://github-readme-stats.vercel.app/api?username=isLouisHsu&theme=graywhite&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&custom_title=LouisHsu)](https://github.com/isLouisHsu)
+-->
